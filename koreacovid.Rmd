@@ -48,6 +48,11 @@ I observed that the number of people alive are higher than the number of people 
 
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+prop.table(table1)
+prop.table(table1)
+```
 
 ## Inferential results 
 
