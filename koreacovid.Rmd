@@ -63,6 +63,7 @@ chisq.test(table1)
 fisher.test(table1)
 ```
 
+I found that the odds of men dying from COVID in South Korea was 2.3 times greater than women. This matches with past results as we saw that most dead from COVID were men. The P-value (0.00009) is evidence that men have a higher chance of dying than women.
 
 ## Conclusions
 
