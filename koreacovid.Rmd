@@ -58,7 +58,10 @@ The percentage of women dying from COVID is 1.4% while for men it's 3%. This per
 
 ## Inferential results 
 
-
+```{r}
+chisq.test(table1)
+fisher.test(table1)
+```
 
 
 ## Conclusions
