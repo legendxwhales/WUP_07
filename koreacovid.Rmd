@@ -54,6 +54,8 @@ prop.table(table1)
 prop.table(table1)
 ```
 
+The percentage of women dying from COVID is 1.4% while for men it's 3%. This percentage is evidence that the disease is twice as fatal towards men. It also matches with the data observed from our Graphical Results.
+
 ## Inferential results 
 
 
