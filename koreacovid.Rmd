@@ -67,3 +67,4 @@ I found that the odds of men dying from COVID in South Korea was 2.3 times great
 
 ## Conclusions
 
+This assignment allowed me to analyze data from South Korea. It was nice to observe real world data instead of hypothetical data. It was difficult to swallow that these were real people, especially since twice as many men died. In particular, I analyzed data regarding COVID deaths in South Korea, and how sex played a role in death distribution. There are several pieces of evidence showing how men died twice as much. The first is taken from Graphical Results, which shows that 2/3 of the people dead were men while 1/3 were women. The Numerical Results show us that 1.4% of women died while 3% of men died. Lastly, in Inferential Results, I noticed that men died 2.3 times as much as women. In conclusion, the death toll was immense, affecting men twice as much as women; a tragedy.
